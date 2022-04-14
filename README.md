@@ -1,6 +1,6 @@
 # TINDER APP ❤
 
-Application is build using "Laravel Sail" framework.
+Application is built using "Laravel Sail" framework.
 
 #### Application has the following MODELS:
 - User model and various related models:
