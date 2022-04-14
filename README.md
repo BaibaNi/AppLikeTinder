@@ -49,4 +49,3 @@ After 2 users are matched, notification mail is sent to both users.-
 <img src="public/images/drawSQL-export-2022-04-13_23_56.png" width="600" alt="Database schema">
 
                                    ❤ Happy matching!
-# AppLikeTinder
