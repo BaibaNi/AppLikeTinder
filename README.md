@@ -2,7 +2,7 @@
 
 Application is build using "Laravel Sail" framework.
 
-####Application has the following MODELS:
+#### Application has the following MODELS:
 - User model and various related models:
   - Description, 
   - Dislike, 
@@ -11,7 +11,7 @@ Application is build using "Laravel Sail" framework.
   - Picture (profile picture) - user cannot have its profile without a picture,
   - Preference.
 
-####Application has the following CONTROLLERS:
+#### Application has the following CONTROLLERS:
 - **Description** - controller for creating user description ("About me").
 - **Image** - for adding images to user gallery.
   - Images are **stored** in the storage directory 'images'.
@@ -30,7 +30,7 @@ After 2 users are matched, notification mail is sent to both users.-
 - **Sessions** - controller responsible about login and logout.
 - **User** - this controller includes functions of displaying all users and view users profile information.
 
-####Application has the following VIEWS:
+#### Application has the following VIEWS:
 - **Layout** and **Flash** message blade files are stored under 'Components' directory;
 - **Descriptions/create** for creating user description ('About me').
 - **Emails/is-match** is a form for the email message, that is received, when two people are matched.
@@ -45,7 +45,7 @@ After 2 users are matched, notification mail is sent to both users.-
   - **Show** - view the individual user profile.
 - **Home** view displays all users, based on the user preference filters. 
 
-####Database schema:
+#### Database schema:
 <img src="public/images/drawSQL-export-2022-04-13_23_56.png" width="600" alt="Database schema">
 
                                    ❤ Happy matching!
